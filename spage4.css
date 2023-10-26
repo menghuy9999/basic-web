@@ -1,0 +1,9 @@
+.one{
+    background-color:rgb(255, 0, 238);
+    border: 2px solid;
+    padding:25px;
+    box-sizing: border-box;
+    height: auto;
+    width: 50%;
+    float: left;
+}
